@@ -13,8 +13,8 @@ Python Libraries:
  - OpenCV
 
 Type in command line:
-  pip install opencv-python
-  pip install pygame
+ - pip install opencv-python
+ - pip install pygame
 to install them if you need
 
 ## Project Description
